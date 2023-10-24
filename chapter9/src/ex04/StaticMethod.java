@@ -14,7 +14,7 @@ class A{
 
 public class StaticMethod {
     public static void main(String[] args) {
-        //인스턴스 메서드 활용 - 반드시 객체를 만들어서 활용
+        //인스턴스 메서드 활용 - 반드시 객체를 만들어서 활용!
         A a1 = new A();
         a1.abc();
 
